@@ -19,7 +19,19 @@
 
 // alert(messInp.trim());
 
-let score = prompt("score");
+// let score = prompt("score");
 
-console.log(score.padStart(5, 0));
-console.log(score.padEnd(5, 0));
+// console.log(score.padStart(5, 0));
+// console.log(score.padEnd(5, 0));
+
+// let wordWB = "PC adress state word planned presence";
+
+// console.log(wordWB.charAt(0));
+
+// let arrayToV = 'bin fetch synch rerun api';
+
+
+// let MSet = arrayToV.split(' ');
+
+// console.log(MSet);
+

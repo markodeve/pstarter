@@ -1,3 +1,7 @@
+.container {
+    padding: 30px 50px;
+}
+
 h1, h2 {
     text-align: center;
     margin: 0;
@@ -15,9 +19,27 @@ h1, h2 {
     background-color: cadetblue;
     text-transform: uppercase;
     font-weight: bold;
-    transition: all 1s;
-
+    transition: all 0.5s;
 }
 
+#btnn:active {
+    transform: scale(0.9);
+}
 
+#save {
+    border-radius: 5px;
+    width: 50px;
+    background-color: brown;
+    color: #fff;
+}
+
+#save:hover {
+    background-color: rgb(255, 190, 190);
+    color: #000;
+}
+
+#entries {
+    font-size: 20px;
+    font-weight: bold;
+}
 
